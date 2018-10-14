@@ -1,4 +1,4 @@
-A React-Redux project of online Burger Ordering app.
+A React.js and Redux project of online Burger Ordering app.
 
 Technology Used:
 1. React.js(create-react-app)
