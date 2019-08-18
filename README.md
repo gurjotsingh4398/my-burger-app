@@ -9,4 +9,4 @@ Technology Used:
 
 Link to the Project is:
 
-https://burger-app-4398.herokuapp.com/
+https://burgerbuildr.herokuapp.com/
